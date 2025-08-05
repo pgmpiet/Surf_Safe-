@@ -2,10 +2,10 @@ body {
     font-family:"Lucida Console", Monaco, monospace;
     background: #222;
     margin:01px auto;
-    max-width:80%;
+    max-width:99%;
     line-height:0.17;
     font-size:18px;
-    padding:0 10px;
+    padding:0 0px;
 }
 
 body * {
@@ -23,4 +23,5 @@ body * {
 .selected {
     background-color: black;
 }
+
 
