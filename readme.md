@@ -1,1 +1,1 @@
-<iframe src="img/TV.HTML" frameborder="0"></iframe>
+<img src="img/TV.GIF" width="140" height="75">
